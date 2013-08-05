@@ -2,6 +2,8 @@
 
 A project for solutions written in Clojure for Project Euler (projecteuler.net).  My hopes and goals with this are to improve the solutions over time, and add new solutions to the (many) problems on Project Euler.  Since this is my first foray into Clojure, I fully expect some solutions to not be as idiomatic as they should be.
 
+![Project Status](http://projecteuler.net/profile/jweaver.png)
+
 ## Usage
 
 Clone and run with
